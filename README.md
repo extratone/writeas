@@ -2,15 +2,18 @@
 
 ---
 
-## *Technical* Documentation for my blog, [bilge.world](https://bilge.world).be
-
 *Please note this has just been separated from [extratone/bilge](https://github.com/extratone/bilge) for the sake of clarity/use/my own sanity.*
+
+# Technical Documentation (Writeas Blog)
+
+## Documentation for my blog, [bilge.world](https://bilge.world).
 
 I proudly use [Write.as](https://write.as) as my blog's CMS. I am relatively new to Git and GitHub, but it occurred to me that a repository would be a great place to track technical changes and even versions/revisions of drafts.
 
-***
+---
 
-![Writeas Customization](https://i.snap.as/xpwZqmy4.png)
+[![Writeas Customization](https://i.snap.as/xpwZqmy4.png)](https://guides.write.as/customizing/)
+
 
 ##  Installation (Bilge Theme)
 
@@ -18,7 +21,7 @@ To "install" my theme on your own Writeas blog, copy and paste the contents of [
 
 See: "[Customizing Writeas](https://guides.write.as/customizing/)"
 
-***
+---
 
 ![Bilge Three Point Oh Footer](https://i.snap.as/B3D5JvZ4.png)
 
@@ -28,7 +31,7 @@ See: "[Customizing Writeas](https://guides.write.as/customizing/)"
 
 A somewhat-outdated version of this site's theme is [listed among others](https://write.as/themes/bilge) in Writeas' official themes list. The full, up-to-date CSS and JS can be found below and on in [this GitHub repository](https://github.com/extratone/bilge), which I created in November, 2020 as an experiment in using Git to track editorial changes. (*That means you can see [current in-progress drafts](https://github.com/extratone/bilge/tree/main/Drafts)!*)
 
-- Download the entirety of this blog in EPUB format **[here](http://bilge.world/.epub)**.
+- ~~Download the entirety of this blog in EPUB format **[here](http://bilge.world/.epub)**~~. <!--Unfortunately, this isn't working right now.-->
 - Subscribe to this blog's RSS feed **[here](https://bilge.world/feed/)**.
 - This blog is federated at **@b@bilge.world**.
 
@@ -42,10 +45,10 @@ A somewhat-outdated version of this site's theme is [listed among others](https:
 
 ![The Psalms Colors](https://i.snap.as/yREEslm5.png)
 
-* [Expired Sour Cream](https://colornames.org/color/fff4e6) 
-* [David Blue](https://colornames.org/color/00006b) 
-* [Red](https://colornames.org/color/ff0000)
-* [Alarmed Suburbanite](https://colornames.org/color/f43f32)
+- [Expired Sour Cream](https://colornames.org/color/fff4e6) #fff4e6
+- [David Blue](https://colornames.org/color/00006b) #00006b
+- [Red](https://colornames.org/color/ff0000) #ff0000
+- [Alarmed Suburbanite](https://colornames.org/color/f43f32) #f43f32
 
 ### [CSS](https://github.com/extratone/bilge/blob/main/Custom%20CSS.css)
 
